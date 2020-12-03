@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DAMSemana06_01_RecycleView"
